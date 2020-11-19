@@ -13,6 +13,3 @@ Included Navigation bar, displays Google's Top headlines, which is done by using
 5.Type in command "npm install". This will install all node modules necessary to run the app.</br>
 6.After all node modules are installed properly, run the command "npm start".</br>
 7.This will initiate app and you can see the Single Page Application on localhost:3000</br></br>
-<b>Video of running the app : </b>
-Link - https://screencast-o-matic.com/watch/cYfZVLAUYQ 
-# CS612-ReactJSApplication
